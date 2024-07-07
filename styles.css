@@ -74,7 +74,7 @@ button {
 a {
   text-decoration: none;
   font-size: 22px;
-  color: white;
+  color: grey;
 }
 
 button:hover, a:hover {
